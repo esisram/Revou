@@ -19,9 +19,28 @@ Hello, I am Esis Ramadhan, currently, I am working as a Senior Data Scientist. I
 <img src="https://img.shields.io/badge/github-181717?style=for-the-badge&logo=github&logoColor=white" alt="github">
 </a>
 
-## 🛠 Skills
+## 🛠 その他のスキル / Other Skills
 
-Javascript, HTML, CSS...
+| スキル (Skill)         | レベル (Level) | 経験 (Experience/Description)                                                                                               |
+| ---------------------- | -------------- | --------------------------------------------------------------------------------------------------------------------------- |
+| **Python**             | Intermediate   | 5+ years of experience in developing data science projects using Python, including prediction model in Telkomsel, OVO, CTCD |
+| **SQL**                | Intermediate   | To create datamart in CTCD                                                                                                  |
+| **R**                  | Intermediate   | 1+ year of experience in developing data visualization using R                                                              |
+| **Data Visualization** | Intermediate   | 2+ years of experience in creating data visualization using Tableu, Power BI                                                |
+| **Machine Learning**   | Intermediate   | 5+ years of experience in developing predictive model using Python                                                          |
+| **Statistics**         | Intermediate   | 5+ years of experience in developing statistical model using Python                                                         |
+
+## Contact
+
+If you would like to find out more about my profile, please reach out to me at:
+
+Email : esis.ramadhan@gmail.com
+
+Email : esisramadan@gmail.com
+
+📞 HP : +6285280084023
+
+Please find out more to look on my resume : [Resume]()
 
 ## Modul 1 : week 0 - week 2
 
