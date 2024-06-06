@@ -1,37 +1,41 @@
-# Introduction
+## Assignment : Modul 1 : week 0 - week 2
 
-Hello, I am Esis Ramadhan, currently, I am working as a Senior Data Scientist. I have been working on this roles since 2018, It was started at OVO (Financial Technology company which provides e-payment)
-![gambar](./blazer.jpg)
+### Deliverables
 
-## Modul 1 : week 0 - week 2
+Build the foundational HTML structure for your responsive website.
 
-ini content header 2
+### Task
 
-Create readme.md in repository and describe what you will build, this include
-1)heading
-2)paragraph
-3)image
+Create the HTML structure for your responsive website. Focus on the following components:
 
-contoh list:
+1. Page Structure and Semantics:
 
-- list 1
-- list 2
-- list N
+- Implement the basic structure of your web page using HTML tags.
+- Ensure the use of correct semantics for each HTML element.
 
-1. list
-2. list
-3. list
+2. Content:
 
----
+- Add relevant content to your website. This could be information about your chosen topic or placeholders if the content is not finalized yet.
 
----
+3. Form Set:
+   Create a form set that includes:
 
-to learn markdown, please type on google website 'markdown syntacs'
+- Input type text
+- Textarea
+- Submit button
+- One of the radio buttons, checkboxes, and select
 
-```html
-<html>
-  <tittle></tittle>
-</html>
+4. Create readme.md in repository and describe what you will build, this include
+
+- heading
+- paragraph
+- image
+
 ```
+Example Website: https://my-favorite-bakery.netlify.app/
+Example Readme: https://github.com/revou-fsse-3/module-1-alvidofaisal
+```
+
+## Answer : Modul 1 : week 0 - week 2
 
 readme.so
