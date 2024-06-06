@@ -2,14 +2,14 @@
 
 ### Hi, I'm [Esis Ramadhan](https://github.com/esisram) 👋
 
-<img src="global_picture/profile_picture.jpg" alt="Alt text" width="250" height='300'/>
+<img src="global_picture/profile_picture.jpg" alt="Alt text" width="300" height='350'/>
 
 ## Authors
 
 - [@esisram](https://www.github.com/esisram) -> Software Engineer Documentations
 - [@esis21marta](https://www.github.com/esis21marta) -> Data Scientist Documentations
 
-Hello, I am Esis Ramadhan, currently, I am working as a Senior Data Scientist. I have been working on this roles since 2018, It was started at OVO (Financial Technology company which provides e-payment). and then I moved to Telkomsel (Tellecomunication company) as a Officer Internal CDP-Project Data Scientist. I have a strong background in data science, machine learning, and statistics. I have experience in developing
+Hello, I am Esis Ramadhan, currently, I am working as a Senior Data Scientist. I have been working on this roles since 2018, It was started at OVO (Financial Technology company which provides e-payment). and then I moved to Telkomsel (Telecomunication company) as a Officer Internal CDP-Project Data Scientist. I have a strong background in data science, machine learning, and statistics. I have experience in developing
 predictive models, data visualization, and data storytelling. I am also skilled in programming languages such as Python, R, and SQL.
 
 ## 🔗 Links
