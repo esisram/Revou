@@ -11,48 +11,48 @@ width="200" height='250'/>
 
 The project consists of two main files:
 
-1. `index.html`: The main HTML file containing the structure and content of the webpage.
-2. `custom.css`: The external CSS file providing the styling for the webpage.
+1. index.html: The main HTML file containing the structure and content of the webpage.
+2. custom.css: The external CSS file providing the styling for the webpage.
 
 ## Features
 
-- **Navigation**: A horizontal navigation bar with links to different sections of the webpage (Home, About Us, Our Programs, Our Facilities, Contact Us).
-- **Responsive Design**: The layout is responsive and adjusts to different screen sizes.
-- **Informative Sections**: Detailed sections about the daycare's services, vision and mission, team, daily programs, and facilities.
-- **Contact Information**: Contact details with email addresses and phone number, along with a link to the owner's resume.
-- **Email Form**: A simple email form allowing visitors to submit their email addresses.
+- *Navigation*: A horizontal navigation bar with links to different sections of the webpage (Home, About Us, Our Programs, Our Facilities, Contact Us).
+- *Responsive Design*: The layout is responsive and adjusts to different screen sizes.
+- *Informative Sections*: Detailed sections about the daycare's services, vision and mission, team, daily programs, and facilities.
+- *Contact Information*: Contact details with email addresses and phone number, along with a link to the owner's resume.
+- *Email Form*: A simple email form allowing visitors to submit their email addresses.
 
 ## How to Use
 
-1. **Clone the Repository**:
-   ```sh
+1. *Clone the Repository*:
+   sh
    git clone https://github.com/esisram/Revou.git
-   ```
-2. **Navigate to the Project Directory**:
-   ```sh
+   
+2. *Navigate to the Project Directory*:
+   sh
    cd Revou/Modul_1
-   ```
-3. **Open `index.html` in Your Browser**:
-   Simply open the `index.html` file in your preferred web browser to view the webpage.
+   
+3. *Open index.html in Your Browser*:
+   Simply open the index.html file in your preferred web browser to view the webpage.
 
 ## File Descriptions
 
-### `index.html`
+### index.html
 
-- **Header and Navigation**: Contains the header with a navigation bar linking to different sections of the webpage.
-- **Main Content**:
-  - **Home Section**: A welcoming message with an image and a list of reasons to choose Fahima DayCare.
-  - **About Us Section**: Vision and mission statements along with information about the team.
-  - **Our Programs Section**: Details of daily programs and special activities offered.
-  - **Our Facilities Section**: Descriptions of the various facilities available at the daycare.
-  - **Contact Us Section**: Contact information with email addresses, phone number, and a link to the resume.
-- **Email Form**: A form for visitors to submit their email addresses.
+- *Header and Navigation*: Contains the header with a navigation bar linking to different sections of the webpage.
+- *Main Content*:
+  - *Home Section*: A welcoming message with an image and a list of reasons to choose Fahima DayCare.
+  - *About Us Section*: Vision and mission statements along with information about the team.
+  - *Our Programs Section*: Details of daily programs and special activities offered.
+  - *Our Facilities Section*: Descriptions of the various facilities available at the daycare.
+  - *Contact Us Section*: Contact information with email addresses, phone number, and a link to the resume.
+- *Email Form*: A form for visitors to submit their email addresses.
 
-### `custom.css`
+### custom.css
 
-- **Header Styling**: Styles for the header and navigation bar, including background colors and hover effects.
-- **Section Styling**: Background colors and padding for each section to distinguish them visually.
-- **Form Styling**: Styling for the email form, including background color, font size, and padding.
+- *Header Styling*: Styles for the header and navigation bar, including background colors and hover effects.
+- *Section Styling*: Background colors and padding for each section to distinguish them visually.
+- *Form Styling*: Styling for the email form, including background color, font size, and padding.
 
 ## Contributing
 
