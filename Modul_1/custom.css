@@ -1,0 +1,28 @@
+header {
+  background-color: #f8f9fa; /* Light grey background for the header */
+  padding: 10px 0; /* Padding for top and bottom */
+}
+
+nav ul {
+  list-style-type: none; /* Remove bullets from list */
+  margin: 0; /* Remove default margin */
+  padding: 0; /* Remove default padding */
+  display: flex; /* Arrange items horizontally */
+  justify-content: center; /* Center align the navigation items */
+}
+
+nav ul li {
+  margin: 0 15px; /* Margin between navigation items */
+}
+
+nav ul li a {
+  text-decoration: none; /* Remove default underline */
+  color: #007bff; /* Blue text color */
+  font-weight: bold; /* Bold text */
+  transition: color 0.3s, text-decoration 0.3s; /* Smooth transition for hover effects */
+}
+
+nav ul li a:hover {
+  color: #0056b3; /* Darker blue on hover */
+  text-decoration: underline; /* Underline text on hover */
+}
