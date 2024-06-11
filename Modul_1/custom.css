@@ -1,13 +1,15 @@
 /* CSS Area Header */
 header {
-  background-color: cornflowerblue;
-  padding: 30px 0;
+  background-color: lightgrey;
+  padding: 20px 0px;
+  margin-bottom: 0px;
+  margin-right: 0px;
 }
 nav ul {
   background-color: antiquewhite;
   list-style-type: none;
   margin: 10px;
-  padding: 10px;
+  padding: 0px;
   display: flex; 
   justify-content: left; 
 }
@@ -27,16 +29,17 @@ nav ul li a:hover {
 
 /* CSS Section */
 section {
-  padding: 20px;
-  border-radius: 8px;
+  padding: 10px;
+  border-radius: 20px;
+  display: flex;
   position: relative;
-  display: grid;
   align-items: center;
-  justify-content: start;
 }
 #Home {
   background-color: cadetblue;
   flex-direction: row;
+  font-size:inherit;
+  text-size-adjust: 30;
 }
 #AboutUs {
   background-color: aliceblue;
@@ -50,17 +53,6 @@ section {
 #ContactUs {
   background-color: burlywood;
 } 
-.image-text-container {
-  display: flex;
-  align-items: left;
-  justify-content: start;
-}
-.image-text-container img {
-  margin-right: 20px;
-}
-.text {
-  max-width: 600px; /* Adjust as needed */
-}
 
 
 form {
@@ -71,4 +63,21 @@ form {
   /* margin-bottom: 30px; */
   text-align: left;
   display: block;
+}
+.form-group {
+  margin-bottom: 15px;
+}
+.form-label {
+  display: block;
+  margin-bottom: 5px;
+}
+.form-control {
+  width: 100%;
+  padding: 8px;
+  box-sizing: border-box;
+  margin-bottom: 10px;
+}
+.btn {
+  display: inline-block;
+  padding: 10px 20px;
 }
