@@ -1,29 +1,31 @@
+/* CSS Area Header */
 header {
   background-color: cornflowerblue;
-  padding: 30px 0; /* Padding for top and bottom */
+  padding: 30px 0;
 }
 nav ul {
   background-color: antiquewhite;
-  list-style-type: none; /*Remove bullets from list*/
-  margin: 10px; /* Remove default margin */
-  padding: 10px; /* Remove default padding */
-  display: flex; /* Arrange items horizontally */
+  list-style-type: none;
+  margin: 10px;
+  padding: 10px;
+  display: flex; 
   justify-content: left; 
 }
 nav ul li {
-  margin: 0 20px; /* Margin between navigation items */
+  margin: 0 20px;
 }
 nav ul li a {
-  text-decoration: none; /* Remove default underline */
-  color: #007bff; /* Blue text color */
-  font-weight: bold; /* Bold text */
-  transition: color 0.3s, text-decoration 0.3s; /* Smooth transition for hover effects */
+  text-decoration: none;
+  color: #007bff;
+  font-weight: bold;
+  transition: color 0.3s, text-decoration 0.3s;
 }
 nav ul li a:hover {
-  color: #0056b3; /* Darker blue on hover */
-  text-decoration: underline; /* Underline text on hover */
+  color: #0056b3;
+  text-decoration: underline;
 }
 
+/* CSS Section */
 section {
   padding: 20px;
   border-radius: 8px;
@@ -48,17 +50,14 @@ section {
 #ContactUs {
   background-color: burlywood;
 } 
-
 .image-text-container {
   display: flex;
   align-items: left;
   justify-content: start;
 }
-
 .image-text-container img {
   margin-right: 20px;
 }
-
 .text {
   max-width: 600px; /* Adjust as needed */
 }
