@@ -2,10 +2,12 @@
 
 Welcome to the Fahima DayCare Website repository! This project showcases a simple, informative webpage for Fahima DayCare, providing essential information about daycare services, programs, facilities, and contact details. The webpage is designed using HTML and styled with an external CSS file.
 
-[Fahima DayCare](https://www.github.com/esisram)
+[Fahima DayCare](http://modul1.vercel.app/)
 
-<img src="/Users/esisramadhan/repository/Revou/Modul_1/picture/profile_picture.jpg" alt="add relative path to image" 
+<a href="https://modul1-esisrams-projects.vercel.app/" target="_blank">
+<img src="./picture/fahimadaycare_log.jpeg" alt="add relative path to image" 
 width="200" height='250'/>
+</a>
 
 ## Project Structure
 

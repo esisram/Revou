@@ -49,6 +49,21 @@ section {
   background-color: burlywood;
 } 
 
+.image-text-container {
+  display: flex;
+  align-items: left;
+  justify-content: start;
+}
+
+.image-text-container img {
+  margin-right: 20px;
+}
+
+.text {
+  max-width: 600px; /* Adjust as needed */
+}
+
+
 form {
   background-color: #f8f9fa; /* Light grey background for the header */
   font-size: 18px;
