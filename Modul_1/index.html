@@ -3,98 +3,98 @@
   <head>
     <meta charset="UTF-8" />
     <meta name="viewport" content="width=device-width, initial-scale=1.0" />
-    <title>Home - Fahima DayCare</title>
-    <link href="./custom.css" rel="stylesheet" />
+    <title>FahimaDayCare</title>
+    <link rel="stylesheet" href="./style.css" />
   </head>
   <body>
-    <header>
-      <nav>
-        <ul>
-          <li><a href="#Home">Home</a></li>
-          <li><a href="#AboutUs">About Us</a></li>
-          <li><a href="#OurPrograms">Our Services</a></li>
-          <li><a href="#OurFacilities">Our Facilities</a></li>
-          <li><a href="#ContactUs">Contact Us</a></li>
-        </ul>
-      </nav>
-    </header>
-    <main>
-      <section id="Home">
-        <img src="./picture/fahimadaycare_log.jpeg" alt="Image for Home Section" width="300" height="350" />
-        <h1>Welcome to Fahima DayCare!!!</h1>
+    <!-- Nav Section -->
+    <nav class="navbar">
+      <h1 class="logo">FahimaDayCare</h1>
+      <ul class="nav-links">
+        <li><a href="#Home">Home</a></li>
+        <li><a href="#AboutUs">About Us</a></li>
+        <li><a href="#OurPrograms">Our Programs</a></li>
+        <li><a href="#ContactUs">Contact Us</a></li>
+      </ul>
+      <a href="#SignIn" class="btn">Sign In</a>
+      <!-- <img src="./img/menu-btn.png" alt="Menu Button" class="menu-btn" /> -->
+    </nav>
+
+    <!-- Header -->
+    <header id="Home">
+      <div class="header-content">
+        <h1>Welcome to Fahima DayCare</h1>
+        <div class="line"></div>
+        <h2>A FUTURE OF YOUR CHILDS</h2>
         <p>
           We provide a safe, warm, and educational environment for your children. Here, children can learn, play, and
           grow with the love and care of our professional caregivers.
         </p>
-        <h3>Why Choose Us?</h3>
+        <button type="button" class="btn"><a href="#SignIn" style="color: black">Join Now</a></button>
+      </div>
+      <iframe
+        width="1800"
+        height="400"
+        src="https://www.youtube.com/embed/EIfte0drKRI?start=1825&autoplay=1&mute=1&loop=1&playlist=EIfte0drKRI&controls=0"
+      >
+      </iframe>
+    </header>
+
+    <!-- <div class="banner"></div> -->
+
+    <!-- Main -->
+    <main>
+      <section id="AboutUs">
+        <h1>Why Choose Us</h1>
         <ul>
           <li>
             <strong>Experienced and trained caregivers</strong>: Our team consists of trained and experienced caregivers
             in child care and education.
           </li>
+          <br />
           <li>
             <b>Safe Environment</b>: The safety of your child is our top priority. We ensure that our facilities are
             always clean and safe for all children.
           </li>
+          <br />
           <li>
             <strong>Educational Programs</strong>: We offer programs designed to stimulate cognitive, physical, and
             social development.
           </li>
+          <br />
           <li>
             <b>Complete Facilities</b>: From playrooms to learning areas, all our facilities are designed for the
             comfort and safety of children.
           </li>
         </ul>
       </section>
-      <section id="AboutUs">
-        <h1>About Us</h1>
-        <h3>Vision and Mission</h3>
-        <p>Our vision is to create an environment that supports the holistic growth and development of children.</p>
-        <p>
-          Our mission is to provide quality care, support learning through play, and build a strong foundation for the
-          future of children.
-        </p>
-        <h3>Our Team</h3>
-        <p>
-          We are proud to have a dedicated and professional team of caregivers. All our caregivers are certified and
-          have extensive experience in child care. They are committed to providing individual attention and ensuring
-          every child feels safe and loved.
-        </p>
-      </section>
-      <section id="OurPrograms">
-        <h1>Our Programs</h1>
-        <h3>Daily Programs</h3>
-        <p>We offer a variety of daily programs tailored to the needs of children of different ages, including:</p>
-        <ul>
-          <li>Playgroup: For children aged 1-2 years, focusing on sensory and motor play.</li>
-          <li>
-            Preschool: For children aged 3-4 years, focusing on preschool preparation with educational activities.
-          </li>
-          <li>Creativity Development: Art and craft activities to stimulate children's creativity.</li>
-        </ul>
-        <h3>Activities</h3>
-        <p>In addition to daily programs, we also offer various special activities such as:</p>
-        <ul>
-          <li>Music and Dance Classes</li>
-          <li>Language Classes</li>
-          <li>Outdoor Activities</li>
-        </ul>
-      </section>
-      <section id="OurFacilities">
-        <h1>Our Facilities</h1>
-        <h3>Playroom</h3>
-        <p>
-          We have a spacious and safe playroom with various educational toys designed to stimulate children's creativity
-          and imagination.
-        </p>
-        <h3>Learning Room</h3>
-        <p>Our learning room is equipped with educational aids that help children learn in a fun way.</p>
-        <h3>Outdoor Area</h3>
-        <p>We have a safe outdoor play area equipped with age-appropriate play equipment.</p>
+
+      <section id="OurPrograms" class="OurPrograms">
+        <div class="row">
+          <div class="col content-col">
+            <h1>Our Programs DayCare</h1>
+            <div class="line"></div>
+            <p>
+              We offer a variety of daily programs tailored to the needs of children of different ages, including: Lorem
+              ipsum dolor sit amet consectetur adipisicing elit. Maiores veniam est fuga molestiae, sunt quos numquam
+              deleniti expedita temporibus? Rem at nisi cum ex expedita voluptate laudantium quis ipsum natus.
+            </p>
+            <a href="#" class="btn">Learn More</a>
+          </div>
+          <div class="col image-col">
+            <div class="image-gallery">
+              <img src="./img/img3.png" alt="" />
+              <img src="./img/img4.png" alt="" />
+              <img src="./img/img5.png" alt="" />
+              <img src="./img/img6.png" alt="" />
+            </div>
+          </div>
+        </div>
       </section>
     </main>
+
     <footer>
-      <section id="ContactUs">
+      <section id="ContactUs" class="ContactUs">
         <h1>Contact Us</h1>
         <p>If you would like to find out more information about us, please reach out to us at:</p>
         <p>Email 1: <a href="mailto:esis.ramadhan@gmail.com">esis.ramadhan@gmail.com</a></p>
@@ -106,6 +106,7 @@
         </p>
       </section>
 
+      <section id="SignIn"></section>
       <h1>Any Questions?</h1>
       <form>
         <div class="form-group">
